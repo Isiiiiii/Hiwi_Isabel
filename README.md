@@ -9,7 +9,7 @@ In this respository I gathered some of my work from my time as a scientific assi
    Study spatial organization across conditions at different levels of abstraction.
 5. Monkeybread: https://monkeybread.readthedocs.io/en/latest/
 
-   Focus was on niche analysis tools.
+   Focus was on niche analysis tools. Tested on Glioblastoma data.
 6. Comparison between two lymphnode datasets from 10xGenomics: In situ gene expression datasets with xenium onboard analysis 3.0.0 (testing of 5000 genes) and 1.5.0 (testing of 400 genes).
 
    - 3.0.0: https://www.10xgenomics.com/datasets/preview-data-xenium-prime-gene-expression
