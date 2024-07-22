@@ -1,4 +1,5 @@
-# 
+# Hiwi Repository
+
 In this respository I gathered some of my work from my time as a scientific assistant (Hiwi) with Dr. Johannes Wirth. It's supposed to serve as a first orientation on how to work on the data with certain methods. I have mainly worked with the following Python packages:
 
 1. Scanpy: https://scanpy.readthedocs.io/en/latest/tutorials/index.html
